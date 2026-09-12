@@ -1,6 +1,6 @@
 from utils import square, is_even, celsius_to_fahrenheit, greet
 
-
+#enter name
 name = input("Enter your name: ")
 print(greet(name))
 
